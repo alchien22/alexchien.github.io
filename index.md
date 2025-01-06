@@ -1,6 +1,10 @@
-# Alexander Chien
+<link rel="stylesheet" type="text/css" href="style.css">
 
-**AI Researcher | Machine Learning Engineer | NLP Specialist**
+# [Alexander Chien](https://alexchien.github.io)
+
+<header>
+  <p>he/him</p>
+</header>
 
 ---
 
@@ -23,3 +27,5 @@ I am an AI researcher with a focus on machine learning, NLP, and bioinformatics.
 - **LinkedIn:** [linkedin.com/in/alexchien](https://linkedin.com/in/alexchien)
 
 ---
+
+&copy; 2025 Alexander Chien. All Rights Reserved.
