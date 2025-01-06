@@ -1,6 +1,8 @@
-layout: page
+---
+layout: home
 title: Alexander Chien
 permalink: /home
+---
 
 # Alexander Chien
 
