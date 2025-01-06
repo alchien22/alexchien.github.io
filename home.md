@@ -1,6 +1,6 @@
 layout: page
 title: Alexander Chien
-permalink: /
+permalink: /home
 
 # Alexander Chien
 
