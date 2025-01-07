@@ -26,7 +26,7 @@ Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate abou
 ---
 
 ## Projects
-- **Branch Prediction Enhancements:** CNN-based optimizations for low MPKI predictors.
+- **Branch Prediction Enhancements:** MultiPerspective Perceptron-based optimizations for low MPKI branch predictors.
 <div style="margin: 20px 0;">
     <a href="https://github.com/alchien22/BranchPrediction" class="icon-btn" target="_blank">
         <i class="fas fa-link"></i> Code
@@ -61,31 +61,3 @@ I'm currently collaborating with Yining Hong and Andrew Lizarraga on improving l
 
 ### UCLA StarAI Lab
 Under the mentorship of Kareem Ahmed, I'm currently investigating discrete gradient estimators for mixtures of experts.
----
-
-## Hobbies
-_Some of the things I enjoy when I have the time (or not):_
-### Reading
-**Some of my favorite books:**
-- Flowers for Algernon (Daniel Keyes)
-- The Picture of Dorian Grey (Oscar Wilde)
-- The Invisible Life of Addie LaRue (Victoria E. Schwab)
-- Brave New World (Aldous Huxley)
-
-### Anime
-**Recommendations:**
-- Your Lie in April
-- I Want to Eat Your Pancreas
-- Your Name
-- Oshi no Ko
-- Look Back
-
-### TV Shows
-**Favorites:**
-- Arcane
-- The Queen's Gambit
-
-### Photography
-<a href="https://alchien22.wixsite.com/snippets" class="icon-btn" target="_blank">
-  <i class="fas fa-camera"></i> Outdated Portfolio
-</a>
