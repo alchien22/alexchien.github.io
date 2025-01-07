@@ -38,10 +38,25 @@ Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate abou
 ---
 ## Hobbies
 Some of the things I enjoy when I have the time (or not):
-- Reading
-  - Favorite reads include: Flowers for Algernon (Daniel Keyes), The Picture of Dorian Grey (Oscar Wilde), The Invisible Life of Addie LaRue (Victoria E. Schwab), Brave New World (Aldous Huxley), and anything by Brandon Sanderson
-- Anime
-  - Recs: Your Lie in April, I Want to Eat Your Pancreas, Your Name, Oshi no Ko, Look Back
-- TV Shows
-  - Recs: Arcane, The Queen's Gambit
-- Photography
+### Reading
+**Some of my favorite books:**
+- Flowers for Algernon (Daniel Keyes)
+- The Picture of Dorian Grey (Oscar Wilde)
+- The Invisible Life of Addie LaRue (Victoria E. Schwab)
+- Brave New World (Aldous Huxley)
+
+### Anime
+**Recommendations:**
+- Your Lie in April
+- I Want to Eat Your Pancreas
+- Your Name
+- Oshi no Ko
+- Look Back
+
+### TV Shows
+**Favorites:**
+- Arcane
+- The Queen's Gambit
+
+### Photography
+<a href="https://alchien22.wixsite.com/snippets" class="button" target="_blank">Outdated Portfolio</a>
