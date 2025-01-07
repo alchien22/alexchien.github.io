@@ -14,6 +14,7 @@ _Some of the things I enjoy when I have the time to (or not):_
 - The Picture of Dorian Grey (Oscar Wilde)
 - The Invisible Life of Addie LaRue (Victoria E. Schwab)
 - Brave New World (Aldous Huxley)
+- Brandon Sanderson's Cosmere
 
 ### Anime
 **Recommendations:**
