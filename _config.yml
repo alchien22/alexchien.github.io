@@ -21,7 +21,8 @@
 title: Alexander Chien
 description: >- # this means to ignore newlines until "baseurl:"
   <a href="/" style="margin-left: 15px;">Home</a>
-  <a href="/hobbies" style="margin-left: 15px;">Hobbies</a>
+  <a href="/hobbies" class="header-btn" style="margin-left: 15px;">Hobbies</a>
+  <br>
   Hi, I'm Alexander Chien, a student passionate about NLP, computer vision, and bioinformatics. Check out my projects, research highlights, and latest experiments!
 baseurl: ""
 url: "https://alchien22.github.io"
@@ -31,3 +32,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+style: "/assets/style.css"
