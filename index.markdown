@@ -5,16 +5,24 @@ title: Alexander Chien
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 ## About Me
-Hi! I'm Alex, a 3rd-year Computer Science student at UCLA focusing on NLP, CV, and bioinformatics. I’m passionate about AI-driven tools that drive impactful solutions. Feel free to reach out about AI, research collaborations, or anything else!
+Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate about AI-driven tools that drive impactful solutions. Feel free to reach out about AI, research collaborations, or anything else!
+
+**Email:** alexchien22 [at] g [dot] ucla [dot] edu
+
+<script type="text/javascript">
+  // Encode email
+  var email = "alexchien22" + "@" + "g.ucla.edu";
+  document.write('<a href="mailto:' + email + '">' + email + '</a>');
+</script>
 
 <div style="margin: 20px 0;">
-  <a href="https://linkedin.com/in/alexanderchien" target="_blank" class="icon-btn">
+  <a href="https://linkedin.com/in/alexander-chien" target="_blank" class="button">
     <i class="fab fa-linkedin"></i> LinkedIn
   </a>
-  <a href="https://github.com/alchien22" target="_blank" class="icon-btn">
+  <a href="https://github.com/alchien22" target="_blank" class="button">
     <i class="fab fa-github"></i> GitHub
   </a>
-  <a href="assets/resume.pdf" target="_blank" class="icon-btn">
+  <a href="_site/assets/resume.pdf" target="_blank" class="button">
     <i class="fas fa-file"></i> Resume
   </a>
 </div>
