@@ -7,21 +7,32 @@ title: Alexander Chien
 
 
 ## About Me
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="assets/portrait.jpeg" alt="Alexander Chien" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <div>
+        <h2>About Me</h2>
+        <p>
+            Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate about AI-driven tools that drive impactful solutions. Feel free to reach out about AI, research collaborations, or anything else!
+        </p>
+        <p><strong>Email:</strong> alexchien22 [at] g [dot] ucla [dot] edu</p>
+        <div style="margin: 20px 0;">
+            <a href="https://linkedin.com/in/alexander-chien" target="_blank" class="icon-btn">
+                <i class="fab fa-linkedin"></i> LinkedIn
+            </a>
+            <a href="https://github.com/alchien22" target="_blank" class="icon-btn">
+                <i class="fab fa-github"></i> GitHub
+            </a>
+            <a href="assets/resume.pdf" target="_blank" class="icon-btn">
+                <i class="fas fa-file"></i> Resume
+            </a>
+        </div>
+    </div>
+</div>
+
 Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate about AI-driven tools that drive impactful solutions. Feel free to reach out about AI, research collaborations, or anything else!
 
 **Email:** alexchien22 [at] g [dot] ucla [dot] edu
-
-<div style="margin: 20px 0;">
-    <a href="https://linkedin.com/in/alexander-chien" target="_blank" class="icon-btn">
-        <i class="fab fa-linkedin"></i> LinkedIn
-    </a>
-    <a href="https://github.com/alchien22" target="_blank" class="icon-btn">
-        <i class="fab fa-github"></i> GitHub
-    </a>
-    <a href="assets/resume.pdf" target="_blank" class="icon-btn">
-        <i class="fas fa-file"></i> Resume
-    </a>
-</div>
 
 ---
 

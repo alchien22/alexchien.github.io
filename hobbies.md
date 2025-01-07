@@ -6,7 +6,7 @@ permalink: /hobbies
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
 
-_Some of the things I enjoy when I have the time (or not):_
+_Some of the things I enjoy when I have the time to (or not):_
 ## Reading
 **Some of my favorite books:**
 - Flowers for Algernon (Daniel Keyes)
