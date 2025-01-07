@@ -1,20 +1,21 @@
 ---
 layout: default
-title: Hobbies
+title: Alexander Chien
 permalink: /hobbies
 ---
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
 
+## Hobbies
 _Some of the things I enjoy when I have the time to (or not):_
-## Reading
+### Reading
 **Some of my favorite books:**
 - Flowers for Algernon (Daniel Keyes)
 - The Picture of Dorian Grey (Oscar Wilde)
 - The Invisible Life of Addie LaRue (Victoria E. Schwab)
 - Brave New World (Aldous Huxley)
 
-## Anime
+### Anime
 **Recommendations:**
 - Your Lie in April
 - I Want to Eat Your Pancreas
@@ -22,12 +23,12 @@ _Some of the things I enjoy when I have the time to (or not):_
 - Oshi no Ko
 - Look Back
 
-## TV Shows
+### TV Shows
 **Favorites:**
 - Arcane
 - The Queen's Gambit
 
-## Photography
+### Photography
 <a href="https://alchien22.wixsite.com/snippets" class="icon-btn" target="_blank">
   <i class="fas fa-camera"></i> Outdated Portfolio
 </a>
