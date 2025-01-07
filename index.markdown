@@ -9,12 +9,6 @@ Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate abou
 
 **Email:** alexchien22 [at] g [dot] ucla [dot] edu
 
-<script type="text/javascript">
-  // Encode email
-  var email = "alexchien22" + "@" + "g.ucla.edu";
-  document.write('<a href="mailto:' + email + '">' + email + '</a>');
-</script>
-
 <div style="margin: 20px 0;">
   <a href="https://linkedin.com/in/alexander-chien" target="_blank" class="button">
     <i class="fab fa-linkedin"></i> LinkedIn
@@ -22,7 +16,7 @@ Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate abou
   <a href="https://github.com/alchien22" target="_blank" class="button">
     <i class="fab fa-github"></i> GitHub
   </a>
-  <a href="_site/assets/resume.pdf" target="_blank" class="button">
+  <a href="assets/resume.pdf" target="_blank" class="button">
     <i class="fas fa-file"></i> Resume
   </a>
 </div>
