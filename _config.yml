@@ -22,8 +22,10 @@ title: Alexander Chien
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Alexander Chien, a student passionate about NLP, computer vision, and bioinformatics. Check out my projects, research highlights, and latest experiments!
   <br>
-  <a href="/" class="header-btn">Home</a>
-  <a href="/hobbies" class="header-btn">Hobbies</a>
+  <div style="display: flex; justify-content: center; gap: 5px;">
+    <a href="/" class="header-btn">Home</a>
+    <a href="/hobbies" class="header-btn">Hobbies</a>
+  </div>
 baseurl: ""
 url: "https://alchien22.github.io"
 

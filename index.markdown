@@ -5,10 +5,10 @@ title: Alexander Chien
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
 
+## About Me
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="assets/portrait.jpeg" alt="Alexander Chien" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <div>
-        <h2>About Me</h2>
         <p>
             Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate about AI-driven tools that drive impactful solutions. Feel free to reach out about AI, research collaborations, or anything else!
         </p>

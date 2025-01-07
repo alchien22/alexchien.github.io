@@ -21,7 +21,7 @@
     background: #0077cc;
     text-decoration: none;
 }
-  
+
 .header-btn {
     display: inline-block;
     padding: 10px 20px;
@@ -29,17 +29,16 @@
     margin-right: 10px;
     margin-top: 20px;
     font-size: 16px;
-    font-weight: bold;
     color: white;
     text-decoration: none;
-    border: 2px solid white;
-    border-radius: 5px;
-    transition: all 0.3s ease;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid white;
+    border-radius: 3px;
+    transition: 0.3s ease;
 }
   
 .header-btn:hover {
-    background-color: white;
-    color: #0077cc;
+    background-color: rgba(255, 255, 255, 0.3);
     text-decoration: none;
 }
   
