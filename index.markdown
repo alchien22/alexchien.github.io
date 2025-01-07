@@ -3,6 +3,8 @@ layout: default
 title: Alexander Chien
 ---
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+
 
 ## About Me
 Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate about AI-driven tools that drive impactful solutions. Feel free to reach out about AI, research collaborations, or anything else!
@@ -10,13 +12,13 @@ Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate abou
 **Email:** alexchien22 [at] g [dot] ucla [dot] edu
 
 <div style="margin: 20px 0;">
-  <a href="https://linkedin.com/in/alexander-chien" target="_blank" class="button">
+  <a href="https://linkedin.com/in/alexander-chien" target="_blank" class="icon-btn">
     <i class="fab fa-linkedin"></i> LinkedIn
   </a>
-  <a href="https://github.com/alchien22" target="_blank" class="button">
+  <a href="https://github.com/alchien22" target="_blank" class="icon-btn">
     <i class="fab fa-github"></i> GitHub
   </a>
-  <a href="assets/resume.pdf" target="_blank" class="button">
+  <a href="assets/resume.pdf" target="_blank" class="icon-btn">
     <i class="fas fa-file"></i> Resume
   </a>
 </div>
@@ -31,7 +33,7 @@ Hi! I'm Alex, a 3rd-year Computer Science student at UCLA. I’m passionate abou
 
 ---
 ## Hobbies
-Some of the things I enjoy when I have the time (or not):
+_Some of the things I enjoy when I have the time (or not):_
 ### Reading
 **Some of my favorite books:**
 - Flowers for Algernon (Daniel Keyes)
@@ -53,4 +55,6 @@ Some of the things I enjoy when I have the time (or not):
 - The Queen's Gambit
 
 ### Photography
-<a href="https://alchien22.wixsite.com/snippets" class="button" target="_blank">Outdated Portfolio</a>
+<a href="https://alchien22.wixsite.com/snippets" class="icon-btn" target="_blank">
+  <i class="fas fa-camera"></i> Outdated Portfolio
+</a>
