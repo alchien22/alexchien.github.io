@@ -2,15 +2,22 @@
 layout: default
 title: Alexander Chien
 ---
-
-# Alexander Chien
-
-**AI Researcher | Machine Learning Engineer | NLP Specialist**
-
----
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 ## About Me
-Hi! I'm Alex, a junior at UCLA studying Computer Science with a focus on AI and NLP. I’m passionate about research at the intersection of language, vision, and bioinformatics. In my free time, I enjoy coding, hiking, and exploring music.
+Hi! I'm Alex, a 3rd-year Computer Science student at UCLA focusing on NLP, CV, and bioinformatics. I’m passionate about AI-driven tools that drive impactful solutions. Feel free to reach out about AI, research collaborations, or anything else!
+
+<div style="margin: 20px 0;">
+  <a href="https://linkedin.com/in/alexanderchien" target="_blank" class="icon-btn">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
+  <a href="https://github.com/alchien22" target="_blank" class="icon-btn">
+    <i class="fab fa-github"></i> GitHub
+  </a>
+  <a href="assets/resume.pdf" target="_blank" class="icon-btn">
+    <i class="fas fa-file"></i> Resume
+  </a>
+</div>
 
 ---
 
@@ -21,12 +28,12 @@ Hi! I'm Alex, a junior at UCLA studying Computer Science with a focus on AI and 
 - **Branch Prediction Enhancements:** CNN-based optimizations for low MPKI predictors.
 
 ---
-
-## Contact
-- **Email:** [alexchien@ucla.edu](mailto:alexchien@ucla.edu)
-- **GitHub:** [github.com/alexchien](https://github.com/alexchien)
-- **LinkedIn:** [linkedin.com/in/alexchien](https://linkedin.com/in/alexchien)
-
----
-
-&copy; 2025 Alexander Chien. All Rights Reserved.
+## Hobbies
+Some of the things I enjoy when I have the time (or not):
+- Reading
+  - Favorite reads include: Flowers for Algernon (Daniel Keyes), The Picture of Dorian Grey (Oscar Wilde), The Invisible Life of Addie LaRue (Victoria E. Schwab), Brave New World (Aldous Huxley), and anything by Brandon Sanderson
+- Anime
+  - Recs: Your Lie in April, I Want to Eat Your Pancreas, Your Name, Oshi no Ko, Look Back
+- TV Shows
+  - Recs: Arcane, The Queen's Gambit
+- Photography
